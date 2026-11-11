@@ -1,4 +1,17 @@
 
+## 🖥️ Application Screenshots
+
+### 1. Diabetes Risk Screening Home Page
+
+![Diabetes Risk Screening Home Page](assets/screenshots/home.png)
+
+### 2. Diabetes Prediction Result
+
+![Diabetes Prediction Result](assets/screenshots/prediction-result.png)
+
+
+
+
 # 🩺 Diabetes Early Diagnosis Using Machine Learning
 
 An AI-powered diabetes risk screening application that uses Machine Learning to estimate the likelihood of diabetes based on selected health measurements.
